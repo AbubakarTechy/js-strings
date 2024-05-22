@@ -67,6 +67,7 @@ console.log(res);
 
 
 ____________________________//Practice Question
+//Enter ur name and change it into username automatically 
 // prompt("Enter Your name=");
 let str= prompt("Enter Your Full name =");
 console.log("Your username is = " + "@" + str + str.length);
